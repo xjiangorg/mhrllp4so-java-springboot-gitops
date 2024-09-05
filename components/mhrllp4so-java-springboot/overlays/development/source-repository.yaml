@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mhrllp4so-java-springboot-repository
+spec:
+  url: https://github.com/xjiangorg/mhrllp4so-java-springboot
